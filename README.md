@@ -5,3 +5,5 @@ This repository is the MATLAB implementation of the paper:
 **Correspondence-Free Region Localization for Partial Shape Similarity via Hamiltonian Spectrum Alignment**
 <br> Arianna Rampini, Irene Tallini, Maks Ovsjanikov, Alex M. Bronstein, Emanuele Rodolà <br>
 *Best Paper Award* at [3DV, 2019](https://www.computer.org/csdl/proceedings-article/3dv/2019/313100a037/1ezRALztN1m).
+
+![image-20190912160913089](./teaser.png)
