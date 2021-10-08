@@ -6,4 +6,4 @@ This repository is the MATLAB implementation of the paper:
 <br> Arianna Rampini, Irene Tallini, Maks Ovsjanikov, Alex M. Bronstein, Emanuele Rodolà <br>
 *Best Paper Award* at [3DV, 2019](https://www.computer.org/csdl/proceedings-article/3dv/2019/313100a037/1ezRALztN1m).
 
-![width=0.5](./teaser.PNG)
+![width=0.1](./teaser.PNG)
