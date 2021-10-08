@@ -7,5 +7,5 @@ This repository is the MATLAB implementation of the paper:
 *Best Paper Award* at [3DV, 2019](https://www.computer.org/csdl/proceedings-article/3dv/2019/313100a037/1ezRALztN1m).
 
 <p align="center">
-  <img src="./teaser.PNG" width="500">
+  <img src="./teaser.PNG" width="600">
 </p>
