@@ -9,3 +9,9 @@ This repository is the MATLAB implementation of the paper:
 <p align="center">
   <img src="./teaser.PNG" width="600">
 </p>
+
+To reproduce the result in this figure, run the script ```run.m``` in MATLAB.
+
+## Optimization
+
+In this code we used the toolbox [manopt](https://www.manopt.org/) for optimization on manifolds.
